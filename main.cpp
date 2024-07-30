@@ -1,5 +1,8 @@
 #include<iostream>
 
+void mergesort(){
+    //
+}
 
 void quicksort(){
  //
